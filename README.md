@@ -8,4 +8,4 @@ Bu proje responsive ui'a sahip bir Film Sitesi Projesidir. İconlar, butonlar, h
 * Javascript
 
 # Ekran Görüntüsü
-![Uploading FilmSitesiYeniden-GoogleChrome2025-06-0119-22-23-ezgif.com-video-to-gif-converter.gif…]()
+[Uploading FilmSitesiYeniden-GoogleChrome2025-06-0119-22-23-ezgif.com-video-to-gif-converter.gif…]()
